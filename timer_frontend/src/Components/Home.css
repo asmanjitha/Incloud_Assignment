@@ -1,0 +1,33 @@
+.Button-textHome{
+    font-size: 3.0em;
+    color: white;
+
+}
+.Timer-buttonHome{
+    height: 15.0em;
+    width: 20em;
+    background: #fc5c65;
+    border-radius: 4px;
+    border: 2px #fc5c65;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+.Book-buttonHome{
+    height: 15.0em;
+    width: 20em;
+    background: #2bcbba;
+    border-radius: 4px;
+    border: 2px #2bcbba;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+
+.History-buttonHome{
+    height: 15.0em;
+    width: 20em;
+    background: #fd9644;
+    border-radius: 4px;
+    border: 2px #fd9644;
+    margin-top: 100px;
+    margin-right: 30px;
+}
