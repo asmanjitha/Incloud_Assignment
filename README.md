@@ -2,6 +2,7 @@
 						=================
 
 1) How To Setup
+
 	*	First download the repository from and extract it
 	*	'timer_app' folder contins the Symfony PHP back end
 	*	'timer_frontend' folder contains the React frontend
@@ -17,7 +18,9 @@
 	*	Run "npm start"
 	*	Open browser and go to "http://localhost:3000"
 
+
 2)How to use application
+
 	*	In Home page there are three buttons "Timer","Book Time" and "View History". 
 	*	In Timer page, Click Start to start timer. 
 	*	To book time directly from timer, Ckick "Click here to Book Time"
@@ -26,7 +29,9 @@
 	*	In Book Time page, Type date, end time and description to save a booking.
 	*	In View History page, the data table shows your previous bookings, Date, End time and description. You can filter bookings by filter the words from filter window.
 
+
 3)Notes
+
 	*	Since I had some issus in docker. I happened to use "XAMPP" server for Web and Database servers. 
 	*	I happened to work around 12 hours to complete this project
 	*	I got many problems while developing the "View History" page. But finally I used Griddle and build the table correctly. 
