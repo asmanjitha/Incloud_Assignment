@@ -11,7 +11,7 @@
 	*	Open "XAMPP Control Panel" (Desktop app) and start "Apache" and "MySQL" servers
 
 	*	Open browser and go to PHP MyAdmin by the link "localhost/phpyadmin"
-	*	Go to "Import" menu and import file "timer_app_db.sql" and click "GO" in bottom left corner to create the database.
+	*	Go to "Import" menu and import file "timer_app_db.sql" in Database Dumb folder and click "GO" in bottom left corner to create the database.
 
 	*	Open 'timer_frontend' folder using CMD
 	*	Run "npm install" (Node.JS should be available in PC)
